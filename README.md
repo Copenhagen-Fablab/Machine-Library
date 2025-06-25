@@ -28,6 +28,9 @@ NOTE: Machines we have multiple of, only appear once on the list!
   - Tailstock: Morse Taper 2
   - Accessories: Live Center, Tailstock Drill Holder
 - Table Saw
+  - Brand: Festool
+  - Model: TKS 80 EBS
+- Table Saw
   - Brand: Makita
   - Model: ???
 - Miter Saw:
