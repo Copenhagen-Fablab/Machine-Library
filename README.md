@@ -16,7 +16,7 @@ NOTE: Machines we have multiple of, only appear once on the list!
 
 - CNC Router
   - Brand: Shopbot
-  - Model:
+  - Model: PRS5 Alpha
   - Bed Size: 1200 x 2400 mm
 - Bandsaw
   - Brand: ????
@@ -30,21 +30,18 @@ NOTE: Machines we have multiple of, only appear once on the list!
 - Table Saw
   - Brand: Festool
   - Model: TKS 80 EBS
-- Table Saw
-  - Brand: Makita
-  - Model: ???
 - Miter Saw:
   - Brand: Festool
   - Model: ???
 - Scroll Saw:
-  - Brand:
+  - Brand: Scheppach
   - Model:
 - Tool Sharpener
-  - Brand:
+  - Brand: Scheppach
   - Model:
 - Drill Press
-  - Brand:
-  - Model:
+  - Brand: Scantools
+  - Model: 32A
 
 #### Other Power Tools
 
@@ -135,3 +132,4 @@ NOTE: Machines we have multiple of, only appear once on the list!
 - CNC Router
   - Brand: N/A
   - Model: N/A
+
