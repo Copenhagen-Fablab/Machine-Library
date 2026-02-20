@@ -63,13 +63,16 @@ NOTE: Machines we have multiple of, only appear once on the list!
   - Accesories: Rotary Engraver
 - Laser Cutter
   - Brand: Epilog
-  - Model: Fusion Pro 36
-  - Working Area: 36" x 24" x 9" (914 x 610 x 228 mm)
-  - Power: 60W
+  - Model: Fusion Pro 48
+  - Working Area: 48” x 36” x 12.25″ (1219 x 914 x 311 mm)
+  - Power: 80 W
   - Laser Source: CO2
-- Vacuum Former
-  - Brand:
-  - Model:
+- Laser Cutter
+  - Brand: Epilog
+  - Model: Fusion Edge 24
+  - Working Area: 24″ x 24″ x 10″ (610 x 610 x 254 mm)
+  - Power: 60 W
+  - Laser Source: CO2
 
 ### Multi-Room (Sewing + Electronics)
 
@@ -113,7 +116,7 @@ NOTE: Machines we have multiple of, only appear once on the list!
   - Model A-1
 - 3D Printer
   - Brand: Prusa
-  - Model: i3 MK3S
+  - Model: i3 MK3S / i3 MK3S+
 - 3D Printer
   - Brand: Creality
   - Model:
@@ -132,4 +135,5 @@ NOTE: Machines we have multiple of, only appear once on the list!
 - CNC Router
   - Brand: N/A
   - Model: N/A
+
 
