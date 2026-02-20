@@ -18,6 +18,7 @@ NOTE: Machines we have multiple of, only appear once on the list!
   - Brand: Shopbot
   - Model: PRS5 Alpha
   - Bed Size: 1200 x 2400 mm
+  - Resources: https://shopbottools.com/support-resources/documentation/shopbot-gantry-tools/
 - Bandsaw
   - Brand: ????
   - Model: ????
@@ -135,5 +136,6 @@ NOTE: Machines we have multiple of, only appear once on the list!
 - CNC Router
   - Brand: N/A
   - Model: N/A
+
 
 
