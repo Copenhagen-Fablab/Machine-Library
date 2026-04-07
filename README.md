@@ -80,11 +80,26 @@ NOTE: Machines we have multiple of, only appear once on the list!
 #### Sewing / Fabrics
 - Embroidery Machine
   - Brand: Janome
-  - Model:
-  - Hoop Sizes:
+  - Model: MB-4S
+  - Hoop Sizes: M1, M2, M3
 - T-Shirt Press
-  - Brand:
-  - Model:
+  - Brand: RICOH
+  - Model: Rh 100
+- Industrial Sewing Machine
+  - Brand: Dürkopp
+  - Model: 291 E1
+  - Feeding Mechanism: Triple Feed
+  - Max Sewing Thickness: 10mm
+  - Max Thread Thickness: Tex 135
+  - Motor: Servo
+  - Motor Control: Pneumatic
+- Sewing Machine
+  - Brand: Brother
+  - Model: Innovis 100
+- Overlocker
+  - Brand: Janome
+  - Model: Mylock 644D
+  - Number of threads: 4 
  
 #### Electronics
 - CNC-Router
