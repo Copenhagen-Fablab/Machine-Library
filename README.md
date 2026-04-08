@@ -86,14 +86,13 @@ NOTE: Machines we have multiple of, only appear once on the list!
   - Brand: RICOH
   - Model: Rh 100
 - Industrial Sewing Machine
-  - Brand: Dürkopp
-  - Model: 291 E1
+  - Brand: Dürkopp-Adler
+  - Model: Dürkopp 291 E1
   - Feeding Mechanism: Triple Feed
   - Max Sewing Thickness: 10mm
   - Max Thread Thickness: Tex 135
-  - Motor: Servo
-  - Motor Control: Pneumatic
-- Sewing Machine
+  - Motor drive: Servo with wide speed range and needle stop
+- Household Sewing Machine
   - Brand: Brother
   - Model: Innovis 100
 - Overlocker
