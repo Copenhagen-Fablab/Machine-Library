@@ -37,7 +37,7 @@ We are super keen on setting people up. However, please be patient as it require
 
 ## Materials
 
-Mainly plywood and wood. MDF is generally banned. Some foam and plastics are allowed upon request as it needs
+Mainly plywood and wood. MDF is generally banned. Some foam and plastics are allowed upon request as it needs approval and changing the dust collection setup.
 
 ## For experienced users
 
