@@ -19,7 +19,7 @@ As part of your first project you will get an introduction on how to operate the
 
 2D vector design (svg, pdf, dwg) or a 3D file (step, stp, Fusion360 project file)
 
-There is no ultimate way of coming up with design files. It is very project and skill dependent. If this is your first time desinging something, the we suggest try to make a simple 2D project in Inkscape or equivalent.
+There is no ultimate way of coming up with design files. It is very project and skill dependent. If this is your first time designing something, then we suggest try to make a simple 2D project in Inkscape or equivalent.
 
 2. Find a superuser who is willing to take you and your project on.
 
@@ -37,7 +37,7 @@ We are super keen on setting people up. However, please be patient as it require
 
 ## Materials
 
-Mainly plywood and wood. MDF is generally banned. Some foam and plastics are allowed upon request as it needs approval and changing the dust collection setup.
+Mainly plywood and solid wood. MDF is banned. Some foam and plastics are allowed upon request as it needs approval and changing the dust collection setup.
 
 ## For experienced users
 
