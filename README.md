@@ -41,8 +41,8 @@ NOTE: Machines we have multiple of, only appear once on the list!
   - Brand: Scheppach
   - Model:
 - Drill Press
-  - Brand: Scantools
-  - Model: 32A
+  - Brand: Flott
+  - Model: SB16ST
 
 #### Other Power Tools
 
